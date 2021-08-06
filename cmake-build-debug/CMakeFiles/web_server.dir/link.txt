@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/web_server.dir/main.cpp.o CMakeFiles/web_server.dir/web/TCPSocket.cpp.o CMakeFiles/web_server.dir/web/TCPServer.cpp.o CMakeFiles/web_server.dir/web/TCPClient.cpp.o -o web_server 
